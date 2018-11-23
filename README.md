@@ -7,7 +7,7 @@ A media server configuration to run Plex, Sonarr, Radarr, and Transmission in Do
 
 - install [Docker](https://www.docker.com/)
 - install [Docker Compose](https://docs.docker.com/compose/)
-- create a [Plex accout](https://www.plex.tv/)
+- create a [Plex account](https://www.plex.tv/)
 - clone this repository
 - clone and setup [the reverse proxy](https://github.com/hkaj/reverse_proxy)
 - create a user for your media server, export its `$USER_ID` and `$GROUP_ID`.
